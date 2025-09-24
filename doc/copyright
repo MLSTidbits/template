@@ -1,15 +1,16 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: template
-Upstream-Contact: <preferred name and address to reach the upstream project>
-Source: <url://example.com>
+Upstream-Contact: MLS Tidbits <contact@mlstidbits.com>
+Upstream-Website: <https://www.mlstidbits.com>
+Source: <https://github.com/mlstidbits/>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: MLS Tidbits <contact@mlstidbits.com>
+           Michael Schaecher <michaelschaecher@mlstidbits.com>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2025 Michael <michaelleeschaecher@gmail.com>
+Copyright: MLS Tidbits <contact@mlstidbits.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
